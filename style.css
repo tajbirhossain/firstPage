@@ -260,7 +260,7 @@ button#homeBButton {
 	position: absolute;
 	border: 1px solid white;
 	width: 200px;
-	background: #000000;
+	background-color: black;
 	display: block;
 	margin-top: -28px;
 	margin-left: -25px;
